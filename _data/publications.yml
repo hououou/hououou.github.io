@@ -1,5 +1,5 @@
 main:
-  - title: AeonG: An Efficient Built-in Temporal Support in Graph Databases
+  - title: AeonG An Efficient Built-in Temporal Support in Graph Databases
     authors: <strong>Jiamin Hou</strong>, Zhanhao Zhao, Zhouyu Wang, Wei Lu, Guodong Jin, Dong Wen, Xiaoyong Du
     conference_short: PVLDB
     conference: International Conference on Very Large Databases (2024)
