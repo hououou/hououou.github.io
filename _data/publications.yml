@@ -13,18 +13,18 @@ main:
     conference_short: DASFAA
     conference: Database Systems for Advanced Applications (2023)
     pdf: https://dl.acm.org/doi/abs/10.1007/978-3-031-30675-4_9
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://dblp.org/rec/conf/dasfaa/HouLPLZD23.html?view=bibtex
     image: ./assets/img/acgpm.png
-    # notes: Early Accept
+  
 
   - title: A General Re-Ranking Method Based On Metric Learning For Person Re-Identification.
     authors: Tongkun Xu, Xin Zhao, <strong>Jiamin Hou</strong>, Jiyong Zhang, Xinhong Hao, Jian Yin
     conference_short: ICME
     conference: IEEE International Conference on Multimedia and Expo (2020)
     pdf: https://ieeexplore.ieee.org/document/9102887
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://dblp.org/rec/conf/icmcs/XuZHZHY20.html?view=bibtex
-    # notes: Oral Presentation
+    notes: Oral Presentation
     image: ./assets/img/personrerank.png
