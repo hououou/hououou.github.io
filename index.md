@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the School of Information, Renmin University of China. My supervisors are Prof. Xiaoyong Du and Prof. Wei Lu. Currently, I am a visiting graduate student at the University of Waterloo, adviced by Prof. Semih Salihoglu.
+I am a Ph.D. student at the School of Information, Renmin University of China. My supervisors are Prof. Xiaoyong Du and Prof. Wei Lu. Currently, I am a visiting graduate student at the University of Waterloo, advised by Prof. Semih Salihoglu and Prof. Ken Salem.
 
 ## Research Interests
 
