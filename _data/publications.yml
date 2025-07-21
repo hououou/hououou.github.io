@@ -1,12 +1,12 @@
 main:
   - title: An efficient and scalable graph database with built-in temporal support
     authors: <strong>Jiamin Hou</strong>, Zhanhao Zhao, Wei Lu, Shiming Yang, Shuang Liu, Quanqing Xu, Chuanhui Yang, Xiaoyong Du
-    conference_short: PVLDB
-    conference: The VLDB Journal
+    conference_short: VLDBJ
+    conference: The VLDB Journal (2025)
     pdf: https://www.vldb.org/pvldb/vol17/p1515-lu.pdf
     code: https://github.com/hououou/AeonG
     bibtex: https://dblp.org/rec/journals/pvldb/HouZWLJWD24.html?view=bibtex
-    image: ./assets/img/aeong.png
+    image: ./assets/img/aeong-cloud.png
 
   
   - title: AeonG An Efficient Built-in Temporal Support in Graph Databases
@@ -15,7 +15,7 @@ main:
     conference: International Conference on Very Large Databases (2024)
     pdf: https://link.springer.com/article/10.1007/s00778-025-00932-w
     bibtex: https://dblp.org/rec/journals/vldb/HouZLYLXYD25.html?view=bibtex
-    image: ./assets/img/aeong-cloud.png
+    image: ./assets/img/aeong.png
 
   - title: Efficient Anomaly Detection in Property Graphs.
     authors: <strong>Jiamin Hou</strong>, Yuhong Lei, Zhe Peng, Wei Lu, Feng Zhang, Xiaoyong Du
