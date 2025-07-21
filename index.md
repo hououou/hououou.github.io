@@ -6,10 +6,12 @@ layout: homepage
 
 I am a Ph.D. student at the School of Information, Renmin University of China. My supervisors are Prof. Xiaoyong Du and Prof. Wei Lu. Currently, I am a visiting graduate student at the University of Waterloo, advised by Prof. Semih Salihoglu and Prof. Ken Salem.
 
+I am actively seeking job opportunities. If you are interested in my work or would like to discuss potential collaborations, please don’t hesitate to contact me.
+
 ## Research Interests
 
 - **Temporal graph databases:** temporal graph; graph databases; 
-- **Cloud database:** cloud object storage
+- **Cloud databases:** cloud object storage; cloud-native database
 
 ## Educations
 - 2020 - now Renmin University of China
