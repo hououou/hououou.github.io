@@ -4,17 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the School of Information, Renmin University of China. My supervisors are Prof. Xiaoyong Du and Prof. Wei Lu. Currently, I am a visiting graduate student at the University of Waterloo, advised by Prof. Semih Salihoglu and Prof. Ken Salem.
+I am a researcher at the Key Laboratory of Blockchain and Data Security, Zhejiang University. I received my Ph.D. from the School of Information, Renmin University of China in January 2026, where I was advised by Prof. Xiaoyong Du and Prof. Wei Lu. I was also a visiting graduate student at the University of Waterloo, advised by Prof. Semih Salihoglu and Prof. Ken Salem.
 
-I am <strong style="color: red;">actively seeking job opportunities.</strong> If you are interested in my work or would like to discuss potential collaborations, please don’t hesitate to contact me.
+I am <strong style="color: red;">actively looking for motivated students</strong> interested in temporal graph agent memory, as well as research topics on deeply coupling database systems with cloud object storage. If you are interested in my work or would like to discuss potential collaborations, please don’t hesitate to contact me.
 
 ## Research Interests
 
-- **Temporal graph databases:** temporal graph; graph databases; 
-- **Cloud databases:** cloud object storage; cloud-native database
+- **Graph agent memory:** temporal graph agent memory; agent memory systems; graph-structured memory
+- **Cloud object storage:** database systems on cloud object storage; cloud-native storage and query processing
+- **Temporal graph databases:** temporal graphs; graph databases; temporal query processing
+
 
 ## Educations
-- 2020 - now Renmin University of China
+- 2020 - 2026 Renmin University of China
 - 2016 - 2020 China University of Mining & Technology, Beijing
 
 <!-- ## Publications
